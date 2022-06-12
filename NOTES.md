@@ -4,7 +4,7 @@
 input should be
 -present
 -string
-
+🔴🟢
 
 ***
 ✅ 🍅 🔴 🟢 ♻️ 💿
